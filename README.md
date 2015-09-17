@@ -1,5 +1,4 @@
-## Website Performance Optimization Portfolio Project
-=====================================================
+##Website Performance Optimization Portfolio Project
 
 In this project our cohort was assigned the challenge of tackling, and correcting, some performance-related issues
 that exist on a website that was provided to us. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
