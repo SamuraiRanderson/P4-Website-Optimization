@@ -1,8 +1,7 @@
-## Website Performance Optimization Portfolio Project
-=====================================================
+##Website Performance Optimization Portfolio Project
 
-In this project our cohort was assigned the challenge of tackling, and correcting, some performance-related issues
-that exist on a website that was provided to us. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
+This project involved the challenge of tackling, and correcting, some performance-related issues
+that on an existing website that was provided to me. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
 achieving 60 Frames Per Second for pizza.html, and getting the pizza size animations on pizza.html to resize in under 5 ms.
 
 To run/test the index.html please [Click Here](http://samurairanderson.github.io)
@@ -59,19 +58,3 @@ Modifications and Optimizations implemented to get the time to resize pizza's le
   triggering a unnecessary layouts.
 
 Measures performance after the above changes and resizing pizzas is now at 0.46 ms.
-
-
-####References used for this project include:
-
-* [Udacity's Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
-* [Udacity's' Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
-* http://www.html5rocks.com/en/tutorials/speed/animations/
-* http://www.webreference.com/programming/javascript/jkm3/index.html
-* http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html
-* https://developer.chrome.com/devtools/docs/network#resource-network-timing
-* GitHub
-* Udacity Office Hours
-* https://github.com/0per8/Udacity-Project-4
-* http://jscompress.com/
-* Stack Overflow
-
