@@ -6,7 +6,7 @@ achieving 60 Frames Per Second for pizza.html, and getting the pizza size animat
 
 To run/test the index.html please [Click Here](http://samurairanderson.github.io)
 
-To test the optimizations implemented for pizza.html please [Click Here](http://samurairanderson.github.io./views/pizza.html)
+To test the optimizations implemented for pizza.html please [Click Here](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html)
 
 Comments for specific changes made can be found nested within index.html, views/pizza.html, views/js/main.js, and view/css/style.css.
 
