@@ -1,4 +1,4 @@
-![Pizza image](img/pizza.png)
+![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png)
 
 #Website Performance Optimization
 
@@ -59,4 +59,4 @@ Modifications and Optimizations implemented to get the time to resize pizza's le
 
 Measures performance after the above changes and resizing pizzas is now at 0.46 ms.
 
-![Pizzeria image](img/pizzeria-min.jpg)
+![Pizzeria image](img/pizzeria.png)
