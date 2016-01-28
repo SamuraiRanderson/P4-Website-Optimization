@@ -14,9 +14,7 @@ Comments for specific changes made can be found nested within index.html, views/
 
 Below is an overview of the optimizations, modifications, and tests performed to meet the rubric specifications for this project. 
  
-
 ###Part One: Optimize PageSpeed Insights score for index.html
-
 
 Measured the initial Google PageSpeed Insight scores which were - Mobile: 26/100, Desktop: 29/100.
 
@@ -60,6 +58,5 @@ Modifications and Optimizations implemented to get the time to resize pizza's le
   triggering a unnecessary layouts.
 
 Measures performance after the above changes and resizing pizzas is now at 0.46 ms.
-
 
 ![Pizzeria image](img/pizzeria-min.png)
