@@ -12,7 +12,7 @@ Comments for specific changes made can be found nested within index.html, views/
 
 Below is an overview of the optimizations, modifications, and tests performed to meet the rubric specifications for this project. 
  
-###Part One: Optimize PageSpeed Insights score for index.html
+##Part One: Optimize PageSpeed Insights score for index.html
 
 Measured the initial Google PageSpeed Insight scores which were - Mobile: 26/100, Desktop: 29/100.
 
@@ -26,7 +26,7 @@ Modifications and Optimizations Implemented:
 
 Measured performance after making the above changes and they were - Mobile: 93/100, Desktop: 95/100.
 
-###Part Two: Optimize Frames per Second in pizza.html
+##Part Two: Optimize Frames per Second in pizza.html
 
 Measured the initial Frames Per Second which were between 20 - 30 fps.
 
@@ -40,7 +40,7 @@ Modifications and Optimizations Implemented:
 
 Measured performance after the above changes and it is now running at 60 FPS.
 
-###Part Three: Computation Efficiency
+##Part Three: Computation Efficiency
 
 Measured the initial resize time which was 83.33 ms.
 
