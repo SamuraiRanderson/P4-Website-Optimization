@@ -1,14 +1,14 @@
 ![Pizza image](img/pizza.png)
 
-#Website Performance Optimization Portfolio Project
+#Website Performance Optimization
 
 This project involved the challenge of tackling, and correcting, some performance-related issues
 that on an existing website for a pizzeria that was provided to me. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
 achieving 60 Frames Per Second for pizza.html, and getting the pizza size animations on pizza.html to resize in under 5 ms.
 
-To run/test the index.html please [Click Here](http://samurairanderson.github.io).
+To run/test the index.html please [**Click Here**](http://samurairanderson.github.io).
 
-To test the optimizations implemented for pizza.html please [Click Here](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html).
+To test the optimizations implemented for pizza.html please [**Click Here**](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html).
 
 Comments for specific changes made can be found nested within index.html, views/pizza.html, views/js/main.js, and view/css/style.css.
 
@@ -59,4 +59,4 @@ Modifications and Optimizations implemented to get the time to resize pizza's le
 
 Measures performance after the above changes and resizing pizzas is now at 0.46 ms.
 
-![Pizzeria image](img/pizzeria-min.png)
+![Pizzeria image](img/pizzeria-min.jpg)
