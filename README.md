@@ -1,5 +1,3 @@
-![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png)
-
 #Website Performance Optimization
 
 This project involved the challenge of tackling, and correcting, some performance-related issues
