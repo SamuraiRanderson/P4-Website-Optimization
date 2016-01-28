@@ -1,4 +1,4 @@
-![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png)
+![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png) ![Pizza image](img/pizza.png)
 
 #Website Performance Optimization
 
