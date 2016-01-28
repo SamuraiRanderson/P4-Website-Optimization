@@ -1,19 +1,21 @@
-##Website Performance Optimization Portfolio Project
+![Pizza image](img/pizza.png)
+
+#Website Performance Optimization Portfolio Project
 
 This project involved the challenge of tackling, and correcting, some performance-related issues
-that on an existing website that was provided to me. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
+that on an existing website for a pizzeria that was provided to me. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
 achieving 60 Frames Per Second for pizza.html, and getting the pizza size animations on pizza.html to resize in under 5 ms.
 
-To run/test the index.html please [Click Here](http://samurairanderson.github.io)
+To run/test the index.html please [Click Here](http://samurairanderson.github.io).
 
-To test the optimizations implemented for pizza.html please [Click Here](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html)
+To test the optimizations implemented for pizza.html please [Click Here](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html).
 
 Comments for specific changes made can be found nested within index.html, views/pizza.html, views/js/main.js, and view/css/style.css.
 
 Below is an overview of the optimizations, modifications, and tests performed to meet the rubric specifications for this project. 
  
 
-####Part One: Optimize PageSpeed Insights score for index.html
+###Part One: Optimize PageSpeed Insights score for index.html
 
 
 Measured the initial Google PageSpeed Insight scores which were - Mobile: 26/100, Desktop: 29/100.
@@ -28,7 +30,7 @@ Modifications and Optimizations Implemented:
 
 Measured performance after making the above changes and they were - Mobile: 93/100, Desktop: 95/100.
 
-####Part Two: Optimize Frames per Second in pizza.html
+###Part Two: Optimize Frames per Second in pizza.html
 
 Measured the initial Frames Per Second which were between 20 - 30 fps.
 
@@ -42,7 +44,7 @@ Modifications and Optimizations Implemented:
 
 Measured performance after the above changes and it is now running at 60 FPS.
 
-####Part Three: Computation Efficiency
+###Part Three: Computation Efficiency
 
 Measured the initial resize time which was 83.33 ms.
 
@@ -58,3 +60,6 @@ Modifications and Optimizations implemented to get the time to resize pizza's le
   triggering a unnecessary layouts.
 
 Measures performance after the above changes and resizing pizzas is now at 0.46 ms.
+
+
+![Pizzeria image](img/pizzeria-min.png)
