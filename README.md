@@ -4,7 +4,7 @@ This project involved the challenge of tackling, and correcting, some performanc
 that on an existing website for a pizzeria that was provided to me. The main tasks were to achieve a [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) score of 90+ for index.html,
 achieving 60 Frames Per Second for pizza.html, and getting the pizza size animations on pizza.html to resize in under 5 ms.
 
-To run/test the index.html please [**Click Here**](file:///Users/robertanderson/P4-Website-Optimization/index.html).
+To run/test the index.html please [**Click Here**](http://samurairanderson.github.io/P4-Website-Optimization/index.html).
 
 To test the optimizations implemented for pizza.html please [**Click Here**](http://samurairanderson.github.io/P4-Website-Optimization/views/pizza.html).
 
