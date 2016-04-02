@@ -46,9 +46,9 @@ Measured the initial resize time which was 83.33 ms.
 
 Modifications and Optimizations implemented to get the time to resize pizza's less than 5 ms:
 * Modified/Optimized Javascript, CSS and HTML to achieve the final result.
-* Replaced "randomPizzaContainer" (377 main.js) with "randomPizzaContainerMedium" (387 main.js) and created
-  a corresponding class for each size within 'function sizeSwitcher(size)' (434 main.js). I updated
-  pizza.html as a result of this change (109 & 126 in pizza.html).
+* Replaced "randomPizzaContainer" (line 377 main.js) with "randomPizzaContainerMedium" (line 387 main.js) and created
+  a corresponding class for each size within 'function sizeSwitcher(size)' (line 434 main.js). I updated
+  pizza.html as a result of this change (lines 109 & 126 in pizza.html).
 * As a result of the changes made to "function sizeSwitcher(size)" I updated style.css for each size.
 * Utilized a technique by Paul Lewis (http://www.html5rocks.com/en/tutorials/speed/animations/) to rewrite
   the scroll function.
